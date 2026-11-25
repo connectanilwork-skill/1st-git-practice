@@ -1,0 +1,1 @@
+print("Main2 ma practice grdae xu hai")
